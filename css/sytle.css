@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: table;
+    width: 100vw;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.main {
+    display: table-cell;
+    vertical-align: middle;
+}
